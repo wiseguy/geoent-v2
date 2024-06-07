@@ -29,7 +29,7 @@ const Banner = () => {
                         
                     </div>
 
-                    <Image src={'/assets/banner/geoent-logo.png'} alt="banner-image" width={1200} height={598} />
+                    <Image src={'/assets/banner/geoent-logo.png'} alt="banner-image" width={300} height={150} />
                 </div>
             </div>
         </main>
